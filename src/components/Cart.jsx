@@ -1,6 +1,6 @@
 
 
-const Cart = ({ cart, handleRemoveFromCart }) => {
+const Cart = ({ cart }) => {
     return (
         <div className='flex items-center gap-4 mb-5'>
             {
